@@ -276,7 +276,7 @@ clean_images_and_containers() {
 
 setup
 intro
-#demo_one
+demo_one
 demo_two
 demo_three
 demo_four
